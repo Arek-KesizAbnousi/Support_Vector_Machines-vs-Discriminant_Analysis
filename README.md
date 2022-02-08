@@ -1,4 +1,4 @@
-# Classification----DiscriminantAnalysis-SupportVectorMachines
+# Classification: DiscriminantAnalysis & SupportVectorMachines
 
 In this Classification Project, We will code some Discriminant Analysis Methods and compare them to
 Support Vector Machines (SVMs).   
